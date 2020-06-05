@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "H:\\Documents\\E-health-e fall detector\\E-health-e fall detector\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v25\\values-v25.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Prati\\.gradle\\caches\\transforms-2\\files-2.1\\18895e310aec737a28cc12c66485b562\\res\\values-v25\\values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}

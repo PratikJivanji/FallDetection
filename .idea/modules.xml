@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/E-health-e_fall_detector.iml" filepath="$PROJECT_DIR$/.idea/modules/E-health-e_fall_detector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/E-health-e_fall_detector.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/E-health-e_fall_detector.app.iml" />
+    </modules>
+  </component>
+</project>

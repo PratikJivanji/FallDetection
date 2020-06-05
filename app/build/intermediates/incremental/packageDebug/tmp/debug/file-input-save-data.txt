@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Mar 09 17:09:05 NZDT 2022
+0.base=H\:\\Documents\\E-health-e fall detector\\E-health-e fall detector\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX
